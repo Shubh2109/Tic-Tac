@@ -16,5 +16,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://Shubh2109.github.io/tic-tac"
+  "homepage": "https://Shubh2109.github.io/Tic-Tac"
 }
